@@ -1,5 +1,5 @@
 <?php
-require_once('Define.php');
+require_once('../Define.php');
 /**
  * MySQLに接続しデータを取得する
  *

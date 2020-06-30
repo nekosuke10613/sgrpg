@@ -1,5 +1,5 @@
 <?php
-require_once('Define.php');
+require_once('../Define.php');
 /**
  * ガチャAPI
  *
